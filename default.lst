@@ -89,9 +89,15 @@ tcp://193.104.87.38:443
 tcp://193.104.87.38:35001
 tcp://185.184.79.149:22
 tcp://185.184.79.149:443
-http://beriev.com
-http://be-200.com
 http://iktport.ru
 http://dev-iktport.ru
 http://hotel.iktport.ru
 http://booking.iktport.ru
+
+tcp://178.21.10.34:22
+tcp://178.21.10.34:21
+tcp://178.21.10.34:443
+tcp://178.21.10.34:465
+tcp://178.21.10.34:3306
+tcp://178.21.10.34:5060
+tcp://178.21.10.34:8080
